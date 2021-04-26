@@ -46,6 +46,7 @@ input {
 
 button {
 	padding-top: 5px;
+	height: 30px;
 	width: 60px;
 	display: block;
 	clear: both;
@@ -55,6 +56,9 @@ button {
 	background-color: white;
 	border-radius: 12%;
 	border-color: gold;
+	color: #00bafd;
+	font-weight: bold;
+	font-style: italic;
 }
 
 #output {
